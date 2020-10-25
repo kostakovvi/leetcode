@@ -1,2 +1,2 @@
 # leetcode
-Решения задач с сайта leetcode.com
+Решения задач с сайта leetcode.com.
