@@ -16,5 +16,7 @@ TEST(TestReverseInteger, Test1)
 	EXPECT_EQ(reverseInteger(INT_MIN), test0);
 	EXPECT_EQ(reverseInteger(test0), test0);
 	EXPECT_EQ(reverseInteger(test1534236469), test0);
-	EXPECT_TRUE(true);
+
+	const bool isTest123Expected = reverseInteger(test123) == test321;
+	EXPECT_TRUE(isTest123Expected == true);
 }

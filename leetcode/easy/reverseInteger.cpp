@@ -13,7 +13,7 @@ int reverseInteger(int x)
 			result = 0;
 			break;
 		}
-		result = result * 10 + x % 10;
+		result = result * 10 + currentSymbol;
 		x /= 10;
 	}
 
