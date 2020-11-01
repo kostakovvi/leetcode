@@ -7,4 +7,4 @@ Assume we are dealing with an environment that could only store integers within 
 [−2^31, 2^31 − 1].
 For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 */
-int reverse(int x);
+int reverseInteger(int x);
