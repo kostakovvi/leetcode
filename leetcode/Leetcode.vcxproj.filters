@@ -27,9 +27,15 @@
     <ClCompile Include="easy\reverseInteger.cpp">
       <Filter>Файлы заголовков\easy</Filter>
     </ClCompile>
+    <ClCompile Include="easy\twoSum.cpp">
+      <Filter>Файлы заголовков\easy</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="easy\reverseInteger.h">
+      <Filter>Исходные файлы\easy</Filter>
+    </ClInclude>
+    <ClInclude Include="easy\twoSum.h">
       <Filter>Исходные файлы\easy</Filter>
     </ClInclude>
   </ItemGroup>

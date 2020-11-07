@@ -154,10 +154,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="easy\reverseInteger.cpp" />
+    <ClCompile Include="easy\twoSum.cpp" />
     <ClCompile Include="Leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="easy\reverseInteger.h" />
+    <ClInclude Include="easy\twoSum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
